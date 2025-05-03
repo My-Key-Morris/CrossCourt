@@ -1,0 +1,2 @@
+C:\Users\Ultro\Virtual_Insanity\Virtual_Insanity\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Ultro\Virtual_Insanity\Virtual_Insanity\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
